@@ -9,5 +9,5 @@ maintainers:
 - email: stefanprodan@users.noreply.github.com
   name: stefanprodan
 sources:
-- https://github.com/stefanprodan/podinfo
+- http://localhost:5000/v2/stefanprodan/podinfo
 kubeVersion: ">=1.23.0-0"
